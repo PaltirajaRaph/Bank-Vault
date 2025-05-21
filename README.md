@@ -22,7 +22,7 @@ This project implements a bank vault system using Arduino and Python, featuring 
 - Ultrasonic distance sensor
 - Light intensity sensor
 - Servo motor for lock mechanism
-- Red, green and white LEDs for status indication
+- Red and green LEDs for status indication
 - Buzzer for alarm
 - Webcam for security photos
 - Keypad interface (implemented in software)
