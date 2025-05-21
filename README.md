@@ -30,8 +30,8 @@ This project implements a bank vault system using Arduino and Python, featuring 
 ## Software Components
 - **Arduino (C/C++)**: Controls all sensors, actuators and communicates with the Python application
 - **Python**: 
-  - Provides GUI interface for PIN entry
-  - Handles security camera functionality
+  - Provides simple GUI interface for PIN entry
+  - Handles security camera functionality (webcam)
   - Processes and logs sensor data
   - Communicates with Arduino via serial connection
 
